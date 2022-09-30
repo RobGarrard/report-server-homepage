@@ -1,0 +1,6 @@
+id,title,description,routing_extension,logo
+4,Digital Teaching Standards,Collaborative review process for achieving digital teaching best practices in your course. ,/dts,default
+2,UQx Dashboard,Analytics for UQx courses hosted on edX. Enrollment data from the edX Data Package and financial data from querterly statements.,/uqx-dashboard,uqx
+3,Early Intervention and Support Initiative,Find students in your faculty who have disengaged from their course work and could benefit from an intervention.,/eisi,default
+5,Blackboard Participation Report,Summary of Blackboard activity for a particular student in a given course. Data from Blackboard clickstream.,/reports/participationreport,blackboard
+6,Assessment Item Analysis,Applies Item Response Theory to aide in the calibration of assessment items whithin a course. Data from Blackboard Grade Center. Initial prototype for HaBS.,/item-analysis,default
